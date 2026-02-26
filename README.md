@@ -2,7 +2,7 @@
 
 A starter kit for building your own AI-powered operating system with [Claude Code](https://claude.ai/code).
 
-Clone it. Fill in your context. Start running slash commands that actually know how you work — your voice, your team, your tools.
+I'm [Darrell Stone](https://www.linkedin.com/in/darrellstone/), VP of Product at [Fi](https://tryfi.com). I built a personal OS repo that runs my weekly cadence — 1:1 prep, meeting recaps, weekly updates, Slack triage — all through Claude Code slash commands that know my voice, my team, and my tools. This is the genericized version of that system. Clone it, fill in your context, and start using it.
 
 ## The Idea
 
